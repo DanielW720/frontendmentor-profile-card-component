@@ -21,7 +21,7 @@ Solution screenshot:
 ### Links
 
 - Solution URL: [Solution](./solution)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://loquacious-queijadas-bf4aeb.netlify.app/)
 
 ## My process
 
