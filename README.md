@@ -10,13 +10,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 Design: 
 
-<img src="./design/desktop-design.jpg" width=60%>
+<img src="./design/desktop-design.jpg" width=75%>
 
 ### Screenshot
 
 Solution screenshot: 
 
-<img src="./screenshot.png" width=60%>
+<img src="./screenshot.png" width=75%>
 
 ### Links
 
